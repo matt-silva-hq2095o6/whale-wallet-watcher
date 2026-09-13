@@ -37,3 +37,5 @@ Options:
 * `--threshold`: Minimum transfer volume in native coin to trigger an alert (defaults to 5.0).
 * `--interval`: Poll interval in seconds (defaults to 12).
 * `--state`: Path to the state file tracking the last processed block (defaults to `last_block.txt`).
+
+<!-- last-checked: 2026-09-13 -->
