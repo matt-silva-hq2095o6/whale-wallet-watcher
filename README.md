@@ -38,4 +38,4 @@ Options:
 * `--interval`: Poll interval in seconds (defaults to 12).
 * `--state`: Path to the state file tracking the last processed block (defaults to `last_block.txt`).
 
-<!-- last-checked: 2026-09-17 -->
+<!-- last-checked: 2026-09-18 -->
